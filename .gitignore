@@ -1,0 +1,23 @@
+
+# Created by https://www.gitignore.io/api/visualstudiocode
+# Edit at https://www.gitignore.io/?templates=visualstudiocode
+
+### VisualStudioCode ###
+#trainDelay/.vscode/*
+#!trainDelay/.vscode/settings.json
+#!trainDelay/.vscode/tasks.json
+#!trainDelay/.vscode/launch.json
+#!trainDelay/.vscode/extensions.json
+trainDelay/.vscode/
+
+### VisualStudioCode Patch ###
+# Ignore all local history of files
+trainDelay/.history
+
+# End of https://www.gitignore.io/api/visualstudiocode
+
+# ignore IntelliSense precompiled header files
+trainDelay/.vscode/ipch/
+
+# ignore build output files
+ArduinoOutput/
